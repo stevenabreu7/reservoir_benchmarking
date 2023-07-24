@@ -1,0 +1,34 @@
+Reference,Nonlinear node and data injection mechanism,Nodes,Task,Performance,Processing speed,add. info
+Duport et al. 99,SOA with optical feedback and optical injection,50-200,Spoken-digit recognition (WER),NCE : SER<1x10-3 with SNR=32 dB; Spoken-digit recognition : WER~,32- 128 kSa/s,
+Brunner et al. 102,Semiconductor laser with optical feedback and optical injection,388,Santa Fe time-series (NMSE) ,~ 0.1,13 MSa/s,
+Brunner et al. 102,Semiconductor laser with optical feedback and optical injection,388,Spoken digit recognition (WER),WER<1%,13 MSa/s,
+Hicke et al. 107,Semiconductor laser with optical feedback and optical injection,400,Santa Fe timeseries (NMSE), 0.1,12.5 MSa/s,
+Hicke et al. 107,Semiconductor laser with optical feedback and optical injection,400,Spoken-digit recognition (WER),0%,12.5 MSa/s,
+Dejonck- heere et al. [100],"Semiconductor saturable absorber mirror, optical data injection",50-200,NCE (SER),1x10-4,32- 128 kSa/s,
+Dejonck- heere et al. [100],"Semiconductor saturable absorber mirror, optical data injection",50-200,Spoken-digit recognition (WER), 2.6%,32- 128 kSa/s,(SNR = 32dB)
+Vinckier et al. 101,Coherently driven passive cavity with optical feedback and optical injection,50-200,NARMA10 NMSE, 0.01,1 MSa/s,
+Vinckier et al. 101,Coherently driven passive cavity with optical feedback and optical injection,50-200,NCE (SER) ,<1x10-4,1 MSa/s,SNR = 32dB
+Vinckier et al. 101,Coherently driven passive cavity with optical feedback and optical injection,50-200,Spoken-digit recognition (WER),0.8% ,1 MSa/s,with SNR 3 dB.
+Bueno et al. 103,Semiconductor laser with optical feedback and optical injection,330,Mackey-Glass timeseries (NMSE),0.05,15 MSa/s,
+Nguimdo et al. 112,Erbium-doped microchip laser with optical feedback and optical injection,100,Santa Fe timeseries (NMSE),0.05,420 kSa/s,
+Takano et al. 104,Photonic integrated semiconductor laser with optical feedback and optical injection,6-124,Santa Fe timeseries (NMSE) ,0.05,0.8- 25 GSa/s,
+Vatin et al. [106,VCSEL with optical feedback and optical injection,390,Santa Fe timeseries (NMSE) ,16,25 MSa/s,
+Vatin et al. [106,VCSEL with optical feedback and optical injection,390,NCE (SER), 1.5%,25 MSa/s,with SNR= 32dB
+Yue et al. 105,Semiconductor laser with optical feedback and data injection via current modulation.,200- 800,Santa Fe timeseries (NMSE),0.05,26 MSa/s,
+Larger et al. 87,MZM voltage; Proof of concept experiment,400,Spoken-digit recognition (WER) ,0.04 ,50 kSa/s,
+Larger et al. 87,MZM voltage; Proof of concept experiment,400,Santa Fe timeseries: (NMSE) ,0.12,50 kSa/s,
+Paquot et al. 88,MZM voltage; Proof of concept experiment,50- 200,NARMA10 (NRMSE),0.17,125 kSa/s,
+Paquot et al. 88,MZM voltage; Proof of concept experiment,50- 200,NCE (SER) ,1x10-4 ,125 kSa/s,with SNR=28 dB
+Paquot et al. 88,MZM voltage; Proof of concept experiment,50- 200,spoken-digit recognition (WER),0.4%,125 kSa/s,
+Martinenghi et al. 90,Wavelength of a tunable DBR-laser; Supports up to 15 delay lines implemented via an FPGA,150,Spoken-digit recognition (WER), 0.6%,50 kSa/s,
+Soriano et al. 93,MZM voltage; Multilevel mask,400,Santa Fe timeseries (NMSE),"0,02",50 kSa/s,
+Ortín et al. 94,Phase modulator voltage; Unification of RC and extreme learning machines,400,NCE (SER),1 x 10-3 ,4 kSa/s,with SNR=32 dB
+Antonik et al. 95,MZM voltage; FPGA-enabled online training,50,NCE (SER) ,1x10-6 ,5kSa/s,with SNR= 32 dB
+Duport et al. 92,MZM voltage; Multiple simultaneouos RC via virtualization,50,NARMA10 (NMSE) , 0.18 ,3 MSa/s,
+Duport et al. 92,MZM voltage; Multiple simultaneouos RC via virtualization,50,NCE (SER), 2.11 x 10^-4 ,3 MSa/s,with SNR=32 dB
+Duport et al. 96,MZM voltage,47,NARMA10 (NMSE) , 0.23,kSa/s,
+Duport et al. 96,MZM voltage,47,NCE (SER) , 2.11x10^-4 ,kSa/s,with SNR=32 dB
+Hermans et al. 97,MZM voltage; optimization via backpropagation,200,NARMA (NRMSE),"0,185",125 kSa/s,
+Larger et al. [ 91,Phase modulator voltage,1113,spoken-digit recognition (WER),0.04%,1 kSa/s,
+Qin et al. 98,MZM voltage,400,Bit header recognition lengths up to 32 bits (SER),"1,25%",50 kSa/s,
+Argyris et al. 113,Semiconductor laser with optical feedback and optical injection,32,"Distortion correction of optical fiber transmission: 21 and 4.6km transmission at 56 and 112 Gb/s, respectively, for 14 dBm input power.","Distortion correction of optical fiber transmission: 21 and 4.6km transmission at 56 and 112 Gb/s, respectively, for 14 dBm input power.",112 Gb/s,
